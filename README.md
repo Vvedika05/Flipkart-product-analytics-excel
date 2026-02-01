@@ -3,6 +3,13 @@
 This is an end-to-end Excel data analytics project built using a Flipkart-style e-commerce dataset.  
 The focus of this project is to demonstrate how raw product data can be transformed into clear, actionable business insights using Excel.
 
+## Excel File
+
+Due to GitHub file size limitations, the Excel file is hosted externally.  
+You can download the dashboard here:
+
+https://drive.google.com/drive/folders/1xYMzjeTb_sHMkGVCnGHs4VdFPJCILMwp?usp=sharing
+
 ---
 
 ## What I Worked On
